@@ -308,5 +308,5 @@ This project is proprietary and confidential. All rights reserved.
 
 <div align="center">
   <p>Built with ❤️ for better cardiovascular health monitoring</p>
-  <p>© 2024 CardioDTech. All rights reserved.</p>
+  <p>© 2025 CardioDTech. All rights reserved.</p>
 </div>
