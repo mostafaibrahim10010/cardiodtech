@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "661939125081",
+    "project_id": "cardiodtech",
+    "storage_bucket": "cardiodtech.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661939125081:android:4ef1c16a2dfd2cba0a6a48",
+        "android_client_info": {
+          "package_name": "com.eui.cardiodtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661939125081-g397pocmlnfld786t0euj01rkaoa6l70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eui.cardiodtech",
+            "certificate_hash": "df506f25454e8cf20f767c26cf53f7f80148c5b4"
+          }
+        },
+        {
+          "client_id": "661939125081-m7le0h7677i6f3qlqufd1io236nn5nen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOU6I3Zor-KlcP4wvtQpX4gn-WZU_0l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661939125081-m7le0h7677i6f3qlqufd1io236nn5nen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
